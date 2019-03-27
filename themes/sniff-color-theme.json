@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#494949"
+				"foreground": "#999"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#FED00A"
+				"foreground": "#FFEE00"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FFFF75"
+				"foreground": "#daff22"
 			}
 		},
 		{
@@ -143,6 +143,15 @@
 			],
 			"settings": {
 				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Ruby Keyword Params",
+			"scope": [
+				"constant.language",
+			],
+			"settings": {
+				"foreground": "#55FF07"
 			}
 		},
 		{
